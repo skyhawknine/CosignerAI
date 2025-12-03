@@ -1,8 +1,5 @@
 # CosignerAI
 
-# **AI-Driven Multisig Automation & Security Layer for DeFi Funds**  
-### **White Paper — Draft v0.2**
-
 ---
 
 ## **1. Introduction**
